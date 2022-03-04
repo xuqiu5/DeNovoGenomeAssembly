@@ -2,7 +2,8 @@
 """
 Created on Sun Feb 20 20:32:07 2022
 
-@author: Saideep Narendrula, HaojunSong
+@author: Authors: Paramita Chatterje, Akul Chopra, Katherine Duchesneau, Xu Qiu, Saideep Narendrula, Haojun Song, Huy Tran, Joseph Tsenum
+
 """
 import os
 import subprocess
